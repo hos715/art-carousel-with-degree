@@ -4,6 +4,9 @@
     font-weight: normal;
     font-style: normal;
 }
+body {
+    font-family: 'BYekan';
+}
 
 /*---------------Section-Rotate-Slider---------------*/
 
@@ -633,7 +636,6 @@
     -webkit-transform: scaleX(-1);
     transform: scaleX(-1);
     width: 25px;
-    font-family: fontAwesome;
     height: 20px;
     font-weight: bold;
     font-size: 47px;

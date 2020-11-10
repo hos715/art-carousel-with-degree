@@ -14,7 +14,7 @@ class App extends Component {
       { num: 4, title: "برای تولید کنندگان مبلمان" },
       { num: 5, title: "توسعه کسب و کار شما" },
       { num: 6, title: "توسعه سلامت و بهداشت " },
-      { num: 7, title: "Drone Custom Software Development " },
+      { num: 7, title: "توسعه نرم افزار سفارشی " },
       { num: 8, title: "راهکارهای پشتیبانی" },
       { num: 9, title: "ناوبری و نقشه برداری فضای باز" },
       { num: 10, title: "واقعیت افزوده" },
